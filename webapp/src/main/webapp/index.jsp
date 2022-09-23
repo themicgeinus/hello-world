@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Welcome to DevOps Guru.</h1>
+    <h1>You are Welcome to DevOps Guru.</h1>
     <p>New users register for DevOps Learning</p>
     <p>Please fill in this form to create an account.</p>
     <hr>
